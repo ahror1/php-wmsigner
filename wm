@@ -1,0 +1,17 @@
+<w3s.request>
+    <reqn></reqn>
+    <wmid></wmid>
+    <sign></sign>
+    <invoice>
+        <orderid></orderid>
+        <customerwmid></customerwmid>
+        <storepurse></storepurse>
+        <amount></amount>
+        <desc></desc>
+        <address></address>
+        <period></period>
+        <expiration></expiration>
+        <onlyauth></onlyauth>
+        <lmi_shop_id></lmi_shop_id>
+    </invoice>
+</w3s.request>
